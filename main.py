@@ -29,14 +29,6 @@ Categories = {
     ".dart": "Code",
 }
 
-# print("" \
-# "put the path" \
-# "")
-# fullFilePath = input()
-# file_ext = Path(fullFilePath).suffix.lower()
-# category = Categories.get(file_ext,"Other")
-# print(category)
-
 print("\n\nput the folder path here\n\n")
 
 inputpath = input()
